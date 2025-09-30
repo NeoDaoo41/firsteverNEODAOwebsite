@@ -1,0 +1,12 @@
+@font-face {
+    font-family: pixel;
+    src: url("../fonts/pixel.ttf") format('truetype');
+}
+@font-face {
+    font-family: pixel2;
+    src: url("../fonts/pixel.OTF") format('opentype');
+}
+@font-face {
+    font-family: pixelb;
+    src: url("../fonts/pixelb.ttf") format('truetype');
+}
